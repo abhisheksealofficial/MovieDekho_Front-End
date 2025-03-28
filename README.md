@@ -17,7 +17,7 @@ MovieDekho is a simple and elegant movie discovery website built using HTML, CSS
 Check out the live version of MovieDekho: [Live Demo](https://your-live-demo-link.com)
 
 ## Screenshots
-![MovieDekho Homepage](path/to/screenshot.png)
+![MovieDekho Homepage](screenshot.png)
 
 ## How to Use
 Follow these simple steps to set up the project locally:
