@@ -1,49 +1,39 @@
-MovieDekho
+# MovieDekho_Front-End
 
 MovieDekho is a simple and elegant movie discovery website built using HTML, CSS, and JavaScript. It provides a user-friendly interface for browsing and exploring movie details.
 
-Features
+## Features
+- **Static movie listing** with a clean and minimalistic UI.
+- **Responsive design** that adapts to different screen sizes.
+- **Interactive elements** powered by JavaScript for dynamic behavior.
+- **Smooth animations and transitions** for an engaging user experience.
 
-Static movie listing with a clean and minimalistic UI.
+## Tech Stack
+- **HTML** - Structure and layout of the website.
+- **CSS** - Styling and responsive design.
+- **JavaScript** - Interactive elements and functionality.
 
-Responsive design that adapts to different screen sizes.
+## Live Demo
+Check out the live version of MovieDekho: [Live Demo](https://your-live-demo-link.com)
 
-Interactive elements powered by JavaScript for dynamic behavior.
+## Screenshots
+![MovieDekho Homepage](path/to/screenshot.png)
 
-Smooth animations and transitions for an engaging user experience.
-
-Tech Stack
-
-HTML - Structure and layout of the website.
-
-CSS - Styling and responsive design.
-
-JavaScript - Interactive elements and functionality.
-
-Live Demo
-
-Check out the live version of MovieDekho: Live Demo
-
-Screenshots
-
-
-
-How to Use
-
+## How to Use
 Follow these simple steps to set up the project locally:
 
-Clone the repository using Git:
+1. **Clone the repository** using Git:
+   ```bash
+   git clone https://github.com/yourusername/MovieDekho_Front-End.git
+   ```
+2. **Navigate** to the project directory:
+   ```bash
+   cd MovieDekho_Front-End
+   ```
+3. **Open `index.html`** in your browser to view the website.
 
-git clone https://github.com/yourusername/MovieDekho_Front-End.git
-
-Navigate to the project directory:
-
-cd MovieDekho_Front-End
-
-Open index.html in your browser to view the website.
-
-Folder Structure
-
+## Folder Structure
+```
 MovieDekho_Front-End/
 ├── index.html
 ├── css/
@@ -51,26 +41,19 @@ MovieDekho_Front-End/
 ├── js/
 │   ├── script.js
 ├── images/
+```
 
-Future Enhancements
+## Future Enhancements
+- Implement a movie search feature
+- Add API integration for real-time movie data
+- Improve UI with more animations and transitions
 
-Implement a movie search feature
-
-Add API integration for real-time movie data
-
-Improve UI with more animations and transitions
-
-Contributing
-
+## Contributing
 Contributions are welcome! If you want to enhance the project:
+- Fork the repository.
+- Make improvements to the codebase.
+- Submit a pull request with a clear description of the changes.
 
-Fork the repository.
-
-Make improvements to the codebase.
-
-Submit a pull request with a clear description of the changes.
-
-License
-
-This project is open-source and available under the MIT License.
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
