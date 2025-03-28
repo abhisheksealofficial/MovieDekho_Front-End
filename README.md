@@ -34,12 +34,12 @@ Follow these simple steps to set up the project locally:
 ## Folder Structure
 ```
 MovieDekho_Front-End/
-├── index.html
-├── css/
-│   ├── styles.css
-├── js/
-│   ├── script.js
-├── images/
+│── LICENSE
+│── README.md
+│── index.html
+│── screenshot.png
+│── script.js
+│── styles.css
 ```
 
 ## Future Enhancements
