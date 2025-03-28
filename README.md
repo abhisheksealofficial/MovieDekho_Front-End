@@ -23,7 +23,7 @@ Follow these simple steps to set up the project locally:
 
 1. **Clone the repository** using Git:
    ```bash
-   https://github.com/abhisheksealofficial/MovieDekho_Front-End
+   git clone https://github.com/abhisheksealofficial/MovieDekho_Front-End.git
    ```
 2. **Navigate** to the project directory:
    ```bash
